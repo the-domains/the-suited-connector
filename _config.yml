@@ -1,0 +1,23 @@
+name: The Suited Connector
+favicon: null
+layout_spectrum: 0.09472648822702467
+typography_spectrum: 0.18634939542971551
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.25653420435264707
+  lightness: 0.17949308408424258
+  saturation: 0.8309569547418505
+  rhythmicContrast: 0.5135683296248317
+purpose: []
