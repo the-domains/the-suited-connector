@@ -1,6 +1,6 @@
 name: The Suited Connector
 favicon: null
-layout_spectrum: 0.09472648822702467
+layout_spectrum: 0.3313
 typography_spectrum: 0.18634939542971551
 title: Random musing from a travelling futurist
 cta:
@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.25653420435264707
+  brandStrength: 0.3125
   lightness: 0.17949308408424258
   saturation: 0.8309569547418505
   rhythmicContrast: 0.5135683296248317
